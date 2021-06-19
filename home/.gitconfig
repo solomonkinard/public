@@ -1,0 +1,11 @@
+[alias]
+  a = add
+  aa = add -A
+  am = commit --amend
+  au = add -u
+  c = commit
+  cp = cherry-pick
+  d = diff
+  dc = diff --cached
+  l = log
+  s = status
